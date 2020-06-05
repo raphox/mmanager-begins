@@ -1,7 +1,7 @@
-# MManager versão inicial
+# MManager intial release
 
-> **ATENÇÃO:** Este repositório possui apenas a versão inicial do projeto e não será continuado.
+> **ATTENTION:** This repository has only the initial version of the project and will not be continued.
 
-O objetivo desse repositório é apenas educacional.
+The purpose of this repository is only educational.
 
-Em uma publicação https://medium.com/p/21cd5e26713d eu compartilhei como foi estruturado e qual foi o objetivo quando comecei a desenvolver esse projeto.
+In a post in the Medium (https://medium.com/p/21cd5e26713d). I share how it was structured and what was the goal when I started to develop this project.

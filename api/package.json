@@ -15,7 +15,7 @@
     "dotenv": "^8.2.0",
     "graphql": "^15.0.0",
     "graphql-postgres-subscriptions": "^1.0.5",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "nodemon": "^2.0.4",
     "pg": "^8.2.1",
     "pg-hstore": "^2.3.3",

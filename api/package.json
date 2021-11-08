@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "apollo-datasource": "^0.7.1",
-    "apollo-server": "^2.14.1",
+    "apollo-server": "^2.25.3",
     "dotenv": "^8.2.0",
     "graphql": "^15.0.0",
     "graphql-postgres-subscriptions": "^1.0.5",
